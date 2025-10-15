@@ -1,8 +1,3 @@
-# Data Jobs Dashboard w/ Power BI
-
-![Dashboard Page 1](/images/Project1_Page1.png)
-
-[View interactive dashboard here on the Power BI Service](https://lukeb.co/powerbi-project1)
 
 ## Introduction
 
